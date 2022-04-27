@@ -38,9 +38,6 @@ expander1.write("問い合わせ内容を書く")
 expander2=st.expander("問い合わせ2")
 expander2.write("問い合わせ内容を書く")
 
-expander3=st.expander("問い合わせ3")
-expander3.write("問い合わせ内容を書く")
-
 
 
 #text=st.text_input("あなたの趣味を教えてください。")
